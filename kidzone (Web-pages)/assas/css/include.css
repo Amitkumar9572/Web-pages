@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* ************   navbae ************** */
+.img_tpmplate{
+    height: 50px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bold;  
+}
+.home{
+    color: rgb(0, 0, 0);
+}
+.home:hover{
+color: #D92351;
+font-weight: bold;
+}
+/* ********         row 1            ***************** */
+.bg-color {
+    background-color: #FFE3E7;
+    align-items: center;
+    margin-bottom: -10px;
+}
+.marging-css{
+    margin-top: 140px;
+}
+.WELCOME {
+    color: #D92351;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.paragraf{
+    font-size: 65px;
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn-Enroll{
+    padding: 12px;
+    padding-right: 47px; padding-left: 47px;
+    background-color: #D92351;
+    color: white;
+    border: none;
+    border-radius: 50px;
+}
+.btn-Enroll:hover{
+    padding: 13px;
+    padding-right: 50px; padding-left: 50px;
+    background-color: #880022;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 50px;
+    }
+/* ***************  row  2  **********************/
+.paragraf-2{
+    font-size: 45px;
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.MISSION{
+    color: #D92351; 
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+/* ***************  row  3  **********************/
+.heading{
+    padding-top: 166px;
+    text-align: center;
+}
+/* ***************  row  4  **********************/
+.bg-color2{
+    background-color: #DFF4FF;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.btn-what{
+    width: 97%;
+    height: 17%;
+    text-align: left;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 16px;
+    border-color: white;
+}
+/* ***************  row  6  **********************/
+.size1{
+    font-size: 50px;
+}
+/* ***************  row  8  **********************/
+.bg-color3{
+    background-color:#E1FCEB ;
+    margin-top: -100px;
+}

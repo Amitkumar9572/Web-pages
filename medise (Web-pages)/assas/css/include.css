@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ************   row 1 ************ */
+.bg-color {
+    background-color: #3890DB;
+    background-image: url(../image/WhatsApp\ Image\ 2024-11-16\ at\ 11.33.47\ AM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 60%;
+}
+
+.marging_top {
+    margin-top: 100px;
+    color: white;
+    color: white;
+    padding-top: 70px;
+    padding-left: 5%;
+    padding-bottom: 40px;
+}
+
+.your_helth {
+    font-size: 50px;
+}
+
+.Get {
+    background-color: #2A3A47;
+    color: white;
+    border-color: #2A3A47;
+    padding: 10px 35px;
+}
+
+/* *************  row 2 ******************** */
+.bg_img {
+    background-image: url(../image/pf-f302fe14-4436-40b0-89ca-3cea63ad7bff--pfb298b48890ce45b1aece4ab23bc7db2amask2png-Edited.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 590px;
+    background-position: center;
+}
+
+.bg_img2 {
+    background-image: url(../image/pf-91651474-95a4-47eb-843c-33e209ba2d50--pfbbfebd3a62ec44fb90c7cd3b7a79eeb5mask3png-Edited.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    height: 350px;
+    width:590px;
+    background-position: center;
+}
+
+.contrl_text {
+    color: white;
+    padding-top: 70px;
+    padding-left: 19%;
+    padding-bottom: 40px;
+}
+
+.btn_2 {
+    background-color: #2285D9;
+    color: white;
+    border-color: #2285D9;
+    padding: 10px 35px;
+}
+
+/*  *****************   row 3 ******************  */
+.btn_3 {
+    background-color: #2285D9;
+    color: white;
+    border: none;
+    padding: 9px 59px;
+}
+.rating{
+    color: red;
+}
+.line{
+background-color: white;
+border-right: 0px;
+border-left: 7px solid black;
+border-top: 0px;
+border-bottom: 0px;
+font-weight: bold;
+}
+/*  *****************   row 5 ******************  */
+.bg_color3{
+    background-color: rgb(54, 65, 70);
+    color: white;
+    text-align: left;
+    margin: 0px 0px 15px;
+}
+.marging_bottom
+{
+    margin-bottom: 250px;
+}
+/*  *****************   row 6 ******************  */
+.docter_img{
+margin: -150px 0px -2px;
+position: relative;
+align-items: center;
+}
+.docter_text{
+    position: relative;
+    margin-top: 95px;
+    padding-bottom: 3   8px;
+}
+/* <!--  *****************   row 7 ******************  --> */
+
+/* <!--  *****************   row 8 ******************  --> */
+
